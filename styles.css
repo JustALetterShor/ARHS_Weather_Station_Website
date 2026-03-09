@@ -80,7 +80,7 @@ div#tswfooter {
 }
 #tswcssbuttons li {
 	margin: 0 ;
-	padding: 0 ;
+	padding: 10 ;
 	display: block ;
 	list-style: none ;
 	font-family: Arial, Helvetica, sans-serif ;
